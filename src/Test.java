@@ -1,7 +1,3 @@
-//Same Java code for given C code is as follows :
-
-//It contains all methods with same functionality given in C program.
-
 import java.io.*;
 import java.util.*;
 
